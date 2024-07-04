@@ -1,1 +1,1 @@
-*.md linguist-language=MicroPython
+*.py linguist-language=MicroPython
